@@ -41,9 +41,9 @@ A weather data pipeline with ingestion, validation, historical backfills, and a 
 A team project involving music data, audio features, ETL, and PostgreSQL.  
 `Python` `PostgreSQL` `Docker`
 
-🧩 **[QIAEA-for-TSP](https://github.com/eclipz-afk/QIAEA-for-TSP)**  
-Playing with evolutionary algorithms to solve the travelling salesman problem.  
-`Python` `Optimization` `Algorithms`
+📊 **[Jobscope](https://github.com/eclipz-afk/hh-job-scrapping)**  
+A job market dashboard built around collecting, cleaning, and exploring tech vacancies. 
+`Python` `SQL` `PostgreSQL` `Flask` `D3.js` `Docker`
 
 ### 💃 when i'm not coding...
 
