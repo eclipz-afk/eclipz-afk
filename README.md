@@ -42,7 +42,7 @@ A team project involving music data, audio features, ETL, and PostgreSQL.
 `Python` `PostgreSQL` `Docker`
 
 📊 **[Jobscope](https://github.com/eclipz-afk/hh-job-scrapping)**  
-A job market dashboard built around collecting, cleaning, and exploring tech vacancies. 
+A job market dashboard built around collecting, cleaning, and exploring tech vacancies.  
 `Python` `SQL` `PostgreSQL` `Flask` `D3.js` `Docker`
 
 ### 💃 when i'm not coding...
